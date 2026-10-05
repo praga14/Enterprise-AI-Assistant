@@ -1,0 +1,12 @@
+.env
+backend/venv/
+frontend/node_modules/
+node_modules/
+__pycache__/
+*.pyc
+frontend/dist/
+backend/.pytest_cache/
+.pytest_cache/
+.vscode/
+
+backend/uploads/*
